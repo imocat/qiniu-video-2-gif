@@ -4,7 +4,7 @@
 
 # 构建镜像
 
-进入该目录，然后运行以下命令，获得名为 ffmpeg:gif-v5 的 docker 镜像
+进入该目录，然后运行以下命令，获得名为 ffmpeg:gif-v6 的 docker 镜像
 
 ```
 make build
