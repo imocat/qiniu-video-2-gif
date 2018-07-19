@@ -10,12 +10,16 @@
 make build
 ```
 
-# 验证镜像功能
+## 本地运行
+
+```
+make debug
+```
 
 ## 运行镜像
 
 ```
-make debug
+make test
 ```
 
 ## 推送镜像
