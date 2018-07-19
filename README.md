@@ -1,4 +1,4 @@
-# mp4 to gif（七牛）
+# video to gif（七牛）
 
 本代码使用 ffmpeg，可将视频文件转换为 gif  图片。
 
