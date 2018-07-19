@@ -1,8 +1,8 @@
 
 ---
 ufopname: dp-gif # ufop 名称，使用 qdoractl list 命令获取可用 image 列表
-verstr: v4
-image: ffmpeg:gif-4
+verstr: v6
+image: ffmpeg:gif-6
 desc: mp4 to gif # 描述信息，可选
 flavor: C1M1 # 运行实例的机器配置，不同的配置单实例价格不一样，使用 qdoractl flavor 命令获取可用的配置列表
 health_check:
